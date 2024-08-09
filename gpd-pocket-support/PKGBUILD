@@ -11,7 +11,7 @@ pkgdesc='Meta package to provide various improvements to the GPD Pocket'
 arch=('x86_64')
 url='https://github.com/joshskidmore/gpd-pocket-arch-packages/tree/master/gpd-pocket-support'
 license=('MIT')
-depends=('dmidecode' 'flashrom' 'gawk' 'intel-ucode' 'pulseaudio' 'systemd')
+depends=('dmidecode' 'flashrom' 'gawk' 'intel-ucode' 'pulse-native-provider' 'systemd')
 optdepends=(
   'gpd-pocket-alsa-lib: ALSA support for the GPD Pocket'
   'gpd-pocket-linux-jwrdegoede: linux kernel for the GPD Pocket'
