@@ -5,7 +5,7 @@
 # Original Source:  https://github.com/njkli/gpd-pocket/tree/master/gpd-pocket-support
 
 pkgname=gpd-pocket-support
-pkgver=0.2.5
+pkgver=0.2.6
 pkgrel=1
 pkgdesc='Meta package to provide various improvements to the GPD Pocket'
 arch=('x86_64')
